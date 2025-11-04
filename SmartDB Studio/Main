@@ -55,7 +55,7 @@ import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
 import javafx.scene.control.TableColumn;
 
-public class DatabaseJavaFinalVersion extends Application {
+public class Main extends Application {
     final String apiKey = "your_api_key";
     String url="your_url";
     String user = "your_user_name";
